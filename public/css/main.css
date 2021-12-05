@@ -1,0 +1,58 @@
+
+.home-page{
+    margin: 10% auto;
+    width: 80%;
+}
+
+.home-page h1{
+    margin: 0px auto 80px auto;
+    width: 80%;
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-size: 4.5rem;
+}
+
+.form-label{
+    font-size: 1.6rem
+}
+
+.form-fields{
+    width:80%;
+    margin: 0 auto;
+}
+
+.result{
+    margin: 10% auto 0 auto;
+    text-align: center;
+}
+.result img{
+    width: 200px;
+}
+.result p{
+    font-size: 1.5rem
+}
+
+.oops{
+    text-align: center;
+    width:50%;
+    margin: 10% auto 0 auto;
+}
+.oops p{
+    font-size: 1.5rem;
+}
+
+@media (max-width: 800px){
+    .home-page h1{
+        font-size: 3.5rem;
+    }
+}
+
+@media (max-width: 613px){
+    .home-page h1{
+        font-size: 3rem;
+    }
+}
+
+
+
+
+
